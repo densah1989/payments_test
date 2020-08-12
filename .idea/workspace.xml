@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3a6cd109-60da-490e-ad11-9b95b809446f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="DeepAssocCompletionPluginSettings">
+    <option name="removeUnusedImportsOnSaveEnabled" value="true" />
+    <option name="passArgsToImplementations" value="true" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.4" />
+  <component name="ProjectId" id="1fuTSPjjKFv4hUP0fQXucUg6eCo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="com.jetbrains.php.lang.actions.generation.PhpGenerateFieldAccessorHandlerBase$MyMemberChooser.fluent.setters.last.selected" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../payments.loc/Repositories" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="php.override.implement.member.chooser.php.doc" value="NONE" />
+    <property name="settings.editor.selected.configurable" value="deep-assoc-completion.SettingsForm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../payments.loc/Repositories" />
+      <recent name="$PROJECT_DIR$/../payments.loc/ValueObjects" />
+      <recent name="$PROJECT_DIR$/../payments.loc/Entities" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../payments.loc/ValueObjects" />
+      <recent name="$PROJECT_DIR$/../payments.loc/Entities/Interfaces" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="104" y="62" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597081041567">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="104" y="62" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.800@0.0.1280.800" timestamp="1597081041567" />
+    <state x="412" y="116" key="#com.intellij.ide.util.MemberChooser" timestamp="1597173364638">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="412" y="116" key="#com.intellij.ide.util.MemberChooser/0.0.1280.800@0.0.1280.800" timestamp="1597173364638" />
+    <state x="341" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1597171387423">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="341" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1280.800@0.0.1280.800" timestamp="1597171387423" />
+    <state x="228" y="142" key="IDE.errors.dialog" timestamp="1597081027014">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="228" y="142" key="IDE.errors.dialog/0.0.1280.800@0.0.1280.800" timestamp="1597081027014" />
+    <state x="409" y="133" key="NewPhpClassDialog" timestamp="1597167868313">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="409" y="133" key="NewPhpClassDialog/0.0.1280.800@0.0.1280.800" timestamp="1597167868313" />
+    <state x="461" y="330" key="NewPhpFileDialog" timestamp="1597087365265">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="461" y="330" key="NewPhpFileDialog/0.0.1280.800@0.0.1280.800" timestamp="1597087365265" />
+    <state x="149" y="39" key="SettingsEditor" timestamp="1597081235685">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="149" y="39" key="SettingsEditor/0.0.1280.800@0.0.1280.800" timestamp="1597081235685" />
+    <state x="341" y="126" width="598" height="548" key="find.popup" timestamp="1597171957940">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="341" y="126" width="598" height="548" key="find.popup/0.0.1280.800@0.0.1280.800" timestamp="1597171957940" />
+    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup" timestamp="1597221910491">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup/0.0.1280.800@0.0.1280.800" timestamp="1597221910491" />
+  </component>
+</project>
